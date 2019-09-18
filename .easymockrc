@@ -1,0 +1,10 @@
+{
+  "output": "api",
+  "template": "axios",
+  "projects": [
+    {
+      "id": "你要创建的 Easy Mock 项目的 id",
+      "name": "demo"
+    }
+  ]
+}
